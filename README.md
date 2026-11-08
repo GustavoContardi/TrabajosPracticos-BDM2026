@@ -12,6 +12,7 @@ Legajo: 182818
 | --- | --- | :---: |
 | [TP01](TP01/) | Preprocesamiento y transformación de datos | 14/09/2026 |
 | [TP02](TP02/) | Procesos ETL con pandas y Apache Hop | 25/09/2026 |
+| [TP03](TP03/) | Árboles de decisión | 09/11/2026 |
 
 Los demás se van agregando a medida que avanza la cursada.
 
